@@ -50,7 +50,7 @@ It can answer questions, set alarms, play music, provide weather updates, and co
 
 Example: When the user says, “Set an alarm for 6 AM,” the voice assistant interprets the command and creates the alarm.
 
-### 2\. Working Principle
+# Working Principle
 
 The working principle of an AI-powered smart speaker involves the following steps.
 
